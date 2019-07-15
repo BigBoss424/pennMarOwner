@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>hikari</title>
-  <id>http://m3xm.github.io</id>
-  <link href="http://m3xm.github.io" />
-  <link href="http://m3xm.github.io/atom.xml" rel="self" />
-  <updated>2019-07-14T14:36:09-07:00</updated>
-  <rights>Copyright 2014, John Doge</rights>
+  <title>Penn Mar Owner</title>
+  <id>https://bigboss424.github.io/</id>
+  <link href="https://bigboss424.github.io/" />
+  <link href="https://bigboss424.github.io//atom.xml" rel="self" />
+  <updated>2019-07-14T18:06:11-07:00</updated>
+  <rights>Copyright 2014, Aaron Jones</rights>
   <author>
-    <name>John Doge</name>
+    <name>Aaron Jones</name>
   </author>
   
 </feed>
