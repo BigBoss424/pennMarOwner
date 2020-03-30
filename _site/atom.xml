@@ -1,13 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>hikari</title>
-  <id>http://m3xm.github.io</id>
-  <link href="http://m3xm.github.io" />
-  <link href="http://m3xm.github.io/atom.xml" rel="self" />
-  <updated>2019-07-14T14:33:53-07:00</updated>
-  <rights>Copyright 2014, John Doge</rights>
+  <title>pennMarOwner</title>
+  <id>http://localhost:4000</id>
+  <link href="http://localhost:4000" />
+  <link href="http://localhost:4000/atom.xml" rel="self" />
+  <updated>2020-03-30T11:59:51-07:00</updated>
+  <rights>Copyright 2014, Aaron Jones</rights>
   <author>
-    <name>John Doge</name>
+    <name>Aaron Jones</name>
   </author>
+  
+    <entry>
+      <title>The Pool, The Sink, and the Garden...O My!</title>
+      <link href="http://localhost:4000/2020/03/30/the-pool-the-sink-and-the-garden-o-my/" />
+      <summary type="html">&lt;p&gt;Today, I will be working on many aspects of this house. I
+am delaying on completing a lot of the chores around the 
+house.&lt;/p&gt;
+
+</summary>
+      <id>http://localhost:4000/2020/03/30/the-pool-the-sink-and-the-garden-o-my/</id>
+      <updated>2020-03-30T04:57:37-07:00</updated>
+      <author>
+        <name>Aaron Jones</name>
+      </author>
+    </entry>
+  
+    <entry>
+      <title>Welcome to Penn Mar</title>
+      <link href="http://localhost:4000/2020/03/24/welcome-to-pennMar/" />
+      <summary type="html">&lt;p&gt;Welcome to the site.&lt;/p&gt;
+</summary>
+      <id>http://localhost:4000/2020/03/24/welcome-to-pennMar/</id>
+      <updated>2020-03-24T12:01:23-07:00</updated>
+      <author>
+        <name>Aaron Jones</name>
+      </author>
+    </entry>
   
 </feed>

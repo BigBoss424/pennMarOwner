@@ -5,4 +5,18 @@ date: 2020-03-30 11:57:37
 ---
 
 Today, I will be working on many aspects of this house. I
-am delaying 
+am delaying on completing a lot of the chores around the 
+house. 
+
+There is the sink that is leaking from the facet hose. The
+lawn needs to be mowed and the weeds that have grown along
+side the house have to be removed. On top of all that, the 
+pool has to be swept, vacuumed and the walls need to be scraped
+from all the algae. Before even getting to those, I have to clean
+the pool's filter and backwash any gunk that lies in between.
+I am not going to give up on getting the pool clean.
+
+I need to sweep all the areas around the back and the front
+as well. I need to be simply get started on the process of developing
+not only this site but site's like it to better manage all things that
+are rent related. 
