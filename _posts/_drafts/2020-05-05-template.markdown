@@ -1,0 +1,7 @@
+---
+layout: post
+title: Templete
+date: 2020-03-30 11:57:37
+---
+
+This is the template for the PennMarOwner blog posts.
